@@ -17,7 +17,8 @@
     "capability": "Tiny action",
     "prerequisites": [],
     "unlockRule": "Start pool",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What small thing did you finish?"
   },
   {
     "id": "P002",
@@ -37,7 +38,8 @@
     "capability": "Social initiation",
     "prerequisites": [],
     "unlockRule": "Start pool",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What did they recommend?"
   },
   {
     "id": "P003",
@@ -57,7 +59,8 @@
     "capability": "Expression",
     "prerequisites": [],
     "unlockRule": "Start pool",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "Who did you appreciate, and why? Initials are enough."
   },
   {
     "id": "P004",
@@ -79,7 +82,8 @@
       "P002"
     ],
     "unlockRule": "Start pool",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What did you talk about?"
   },
   {
     "id": "P005",
@@ -103,7 +107,8 @@
       "P001"
     ],
     "unlockRule": "Start pool",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What did you try, and where did you get stuck?"
   },
   {
     "id": "P006",
@@ -123,7 +128,8 @@
     "capability": "Self-expression",
     "prerequisites": [],
     "unlockRule": "Start pool",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What did you actually prefer?"
   },
   {
     "id": "P007",
@@ -147,7 +153,8 @@
       "P005"
     ],
     "unlockRule": "Start pool",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What did you show, and what response stood out?"
   },
   {
     "id": "P008",
@@ -172,7 +179,8 @@
       "P004"
     ],
     "unlockRule": "Start pool",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What answer stayed with you?"
   },
   {
     "id": "P009",
@@ -194,7 +202,8 @@
       "P006"
     ],
     "unlockRule": "Start pool",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What did you say no to? You can keep the details private."
   },
   {
     "id": "P010",
@@ -218,7 +227,8 @@
       "P004"
     ],
     "unlockRule": "Start pool",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "When did you go first?"
   },
   {
     "id": "P011",
@@ -240,7 +250,8 @@
       "P004"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P012",
@@ -265,7 +276,8 @@
       "P005"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P013",
@@ -287,7 +299,8 @@
       "P003"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P014",
@@ -311,7 +324,8 @@
       "P010"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P015",
@@ -335,7 +349,8 @@
       "P002"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P016",
@@ -359,7 +374,8 @@
       "P006"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P017",
@@ -384,7 +400,8 @@
       "P012"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P018",
@@ -409,7 +426,8 @@
       "P011"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P019",
@@ -433,7 +451,8 @@
       "P015"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P020",
@@ -458,7 +477,8 @@
       "P017"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P021",
@@ -480,12 +500,13 @@
       "P018"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P022",
     "title": "THE FEEDBACK",
-    "mission": "Ask someone you trust for one piece of honest feedback. Don't defend yourself\u2014just listen.",
+    "mission": "Ask someone you trust for one piece of honest feedback. Don't defend yourself—just listen.",
     "difficulty": 3,
     "minutes": 5,
     "dimensions": [
@@ -505,7 +526,8 @@
       "P020"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P023",
@@ -528,7 +550,8 @@
       "P012"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P024",
@@ -553,7 +576,8 @@
       "P022"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P025",
@@ -578,7 +602,8 @@
       "P019"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P026",
@@ -602,7 +627,8 @@
       "P019"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P027",
@@ -627,7 +653,8 @@
       "P017"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P028",
@@ -651,7 +678,8 @@
       "P021"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P029",
@@ -675,12 +703,13 @@
       "P024"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P030",
     "title": "CHOOSE YOURSELF",
-    "mission": "Make one small decision today because it's right for you\u2014not because it will impress or please someone else.",
+    "mission": "Make one small decision today because it's right for you—not because it will impress or please someone else.",
     "difficulty": 3,
     "minutes": 5,
     "dimensions": [
@@ -699,7 +728,8 @@
       "P025"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P031",
@@ -721,7 +751,8 @@
       "P014"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P032",
@@ -745,7 +776,8 @@
       "P018"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P033",
@@ -767,7 +799,8 @@
       "P023"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P034",
@@ -791,7 +824,8 @@
       "P017"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P035",
@@ -816,7 +850,8 @@
       "P025"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P036",
@@ -839,7 +874,8 @@
       "P018"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P037",
@@ -864,7 +900,8 @@
       "P034"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P038",
@@ -888,7 +925,8 @@
       "P022"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P039",
@@ -910,7 +948,8 @@
       "P030"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P040",
@@ -934,7 +973,8 @@
       "P039"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P041",
@@ -959,7 +999,8 @@
       "P028"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P042",
@@ -983,7 +1024,8 @@
       "P032"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P043",
@@ -1007,7 +1049,8 @@
       "P037"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P044",
@@ -1029,7 +1072,8 @@
       "P035"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P045",
@@ -1053,7 +1097,8 @@
       "P026"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P046",
@@ -1078,7 +1123,8 @@
       "P035"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P047",
@@ -1103,7 +1149,8 @@
       "P036"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P048",
@@ -1128,7 +1175,8 @@
       "P042"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P049",
@@ -1151,7 +1199,8 @@
       "P033"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
   },
   {
     "id": "P050",
@@ -1187,6 +1236,451 @@
       "P049"
     ],
     "unlockRule": "Complete any listed prerequisite OR equivalent evidence",
-    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump"
+    "nextLogic": "Prefer related next mission; balance weakest growth dimension; avoid >1 difficulty jump",
+    "answerPrompt": "What happened, or what did you notice?"
+  },
+  {
+    "id": "P051",
+    "title": "THE NEXT TWO",
+    "mission": "Take the next two-minute step on the same thing.",
+    "minutes": 5,
+    "difficulty": 2,
+    "dimensions": [
+      "Self-Respect",
+      "Growth"
+    ],
+    "notYet": "Choose the next step and put what you need in front of you.",
+    "identities": [
+      "Grounded",
+      "Learner"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P001"
+    ],
+    "contextFrom": "P001",
+    "answerPrompt": "What next step did you finish?"
+  },
+  {
+    "id": "P052",
+    "title": "CLOSE THE LOOP",
+    "mission": "Finish one remaining tiny step, or put a time in your calendar to return to it.",
+    "minutes": 3,
+    "difficulty": 2,
+    "dimensions": [
+      "Self-Respect",
+      "Growth"
+    ],
+    "notYet": "Write down the remaining step.",
+    "identities": [
+      "Grounded",
+      "Learner"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P051"
+    ],
+    "contextFrom": "P051",
+    "answerPrompt": "What will you remember from this?"
+  },
+  {
+    "id": "P053",
+    "title": "TRY IT",
+    "mission": "Try the recommendation for up to five minutes, if it is safe, affordable and something you want to try.",
+    "minutes": 5,
+    "difficulty": 2,
+    "dimensions": [
+      "Growth",
+      "Courage"
+    ],
+    "notYet": "Choose when you could try it.",
+    "identities": [
+      "Learner",
+      "Explorer"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P002"
+    ],
+    "contextFrom": "P002",
+    "answerPrompt": "What did you try and notice?"
+  },
+  {
+    "id": "P054",
+    "title": "THE FOLLOW-UP",
+    "mission": "If appropriate, tell the person you tried their recommendation and share one thing you noticed.",
+    "minutes": 3,
+    "difficulty": 2,
+    "dimensions": [
+      "Connection",
+      "Courage"
+    ],
+    "notYet": "Draft one sentence without sending it.",
+    "identities": [
+      "Connector",
+      "Explorer"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P053"
+    ],
+    "contextFrom": "P053",
+    "answerPrompt": "What did you share?"
+  },
+  {
+    "id": "P055",
+    "title": "ONE MORE DETAIL",
+    "mission": "Send the same person one specific example of something you appreciate. Only if another message feels appropriate.",
+    "minutes": 5,
+    "difficulty": 2,
+    "dimensions": [
+      "Connection",
+      "Creation"
+    ],
+    "notYet": "Write the example for yourself.",
+    "identities": [
+      "Connector",
+      "Maker"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P003"
+    ],
+    "contextFrom": "P003",
+    "answerPrompt": "What specific example did you share?"
+  },
+  {
+    "id": "P056",
+    "title": "MAKE ROOM",
+    "mission": "Offer the same person a small, pressure-free chance to connect. Let them freely decline.",
+    "minutes": 3,
+    "difficulty": 2,
+    "dimensions": [
+      "Connection",
+      "Courage"
+    ],
+    "notYet": "Write a simple invitation.",
+    "identities": [
+      "Connector",
+      "Explorer"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P055"
+    ],
+    "contextFrom": "P055",
+    "answerPrompt": "What invitation did you offer?"
+  },
+  {
+    "id": "P057",
+    "title": "FOLLOW YOUR CURIOSITY",
+    "mission": "Ask one genuine follow-up about that topic when there is an appropriate chance.",
+    "minutes": 5,
+    "difficulty": 2,
+    "dimensions": [
+      "Connection",
+      "Growth"
+    ],
+    "notYet": "Write one follow-up question.",
+    "identities": [
+      "Connector",
+      "Learner"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P004"
+    ],
+    "contextFrom": "P004",
+    "answerPrompt": "What did you learn?"
+  },
+  {
+    "id": "P058",
+    "title": "REMEMBER A DETAIL",
+    "mission": "At your next appropriate conversation, mention one detail you remember and listen.",
+    "minutes": 3,
+    "difficulty": 2,
+    "dimensions": [
+      "Connection",
+      "Self-Respect"
+    ],
+    "notYet": "Write down the detail.",
+    "identities": [
+      "Connector",
+      "Grounded"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P057"
+    ],
+    "contextFrom": "P057",
+    "answerPrompt": "What detail did you remember?"
+  },
+  {
+    "id": "P059",
+    "title": "TRY THAT PART",
+    "mission": "Spend five minutes trying the part that felt difficult again.",
+    "minutes": 5,
+    "difficulty": 2,
+    "dimensions": [
+      "Growth",
+      "Creation"
+    ],
+    "notYet": "Try that part for one minute.",
+    "identities": [
+      "Learner",
+      "Maker"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P005"
+    ],
+    "contextFrom": "P005",
+    "answerPrompt": "What changed on your second try?"
+  },
+  {
+    "id": "P060",
+    "title": "SHOW THE ATTEMPT",
+    "mission": "Show someone you trust your attempt and ask for one useful suggestion.",
+    "minutes": 3,
+    "difficulty": 2,
+    "dimensions": [
+      "Creation",
+      "Courage",
+      "Connection"
+    ],
+    "notYet": "Choose the person and the attempt.",
+    "identities": [
+      "Maker",
+      "Explorer",
+      "Connector"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P059"
+    ],
+    "contextFrom": "P059",
+    "answerPrompt": "What suggestion did you receive?"
+  },
+  {
+    "id": "P061",
+    "title": "ONE SMALL CHOICE",
+    "mission": "Make one small choice today that honours that preference.",
+    "minutes": 5,
+    "difficulty": 2,
+    "dimensions": [
+      "Self-Respect",
+      "Courage"
+    ],
+    "notYet": "Write down a choice you could make.",
+    "identities": [
+      "Grounded",
+      "Explorer"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P006"
+    ],
+    "contextFrom": "P006",
+    "answerPrompt": "What choice did you make?"
+  },
+  {
+    "id": "P062",
+    "title": "SAY IT CLEARLY",
+    "mission": "When relevant, express the same preference kindly in one sentence.",
+    "minutes": 3,
+    "difficulty": 2,
+    "dimensions": [
+      "Self-Respect",
+      "Connection"
+    ],
+    "notYet": "Practise the sentence privately.",
+    "identities": [
+      "Grounded",
+      "Connector"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P061"
+    ],
+    "contextFrom": "P061",
+    "answerPrompt": "What words worked for you?"
+  },
+  {
+    "id": "P063",
+    "title": "USE ONE IDEA",
+    "mission": "Spend five minutes applying one useful suggestion, if you received one. Otherwise improve one detail you choose.",
+    "minutes": 5,
+    "difficulty": 2,
+    "dimensions": [
+      "Creation",
+      "Growth"
+    ],
+    "notYet": "Choose the detail to work on.",
+    "identities": [
+      "Maker",
+      "Learner"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P007"
+    ],
+    "contextFrom": "P007",
+    "answerPrompt": "What did you change?"
+  },
+  {
+    "id": "P064",
+    "title": "SHOW THE CHANGE",
+    "mission": "Show the revised attempt to someone you trust. Explain one thing you changed.",
+    "minutes": 3,
+    "difficulty": 2,
+    "dimensions": [
+      "Creation",
+      "Connection",
+      "Courage"
+    ],
+    "notYet": "Write one sentence describing the change.",
+    "identities": [
+      "Maker",
+      "Connector",
+      "Explorer"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P063"
+    ],
+    "contextFrom": "P063",
+    "answerPrompt": "What did you share this time?"
+  },
+  {
+    "id": "P065",
+    "title": "TEST THE IDEA",
+    "mission": "Spend five minutes exploring one useful, safe idea from the answer.",
+    "minutes": 5,
+    "difficulty": 2,
+    "dimensions": [
+      "Growth",
+      "Creation"
+    ],
+    "notYet": "Write one tiny way you could explore it.",
+    "identities": [
+      "Learner",
+      "Maker"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P008"
+    ],
+    "contextFrom": "P008",
+    "answerPrompt": "What did you discover?"
+  },
+  {
+    "id": "P066",
+    "title": "SHARE THE LEARNING",
+    "mission": "Share one thing you learned with an interested person. Leave room for their view.",
+    "minutes": 3,
+    "difficulty": 2,
+    "dimensions": [
+      "Connection",
+      "Growth"
+    ],
+    "notYet": "Draft the thought in one sentence.",
+    "identities": [
+      "Connector",
+      "Learner"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P065"
+    ],
+    "contextFrom": "P065",
+    "answerPrompt": "What did the conversation add?"
+  },
+  {
+    "id": "P067",
+    "title": "KEEP THE SPACE",
+    "mission": "Use two minutes of the time or attention you protected for something you choose.",
+    "minutes": 5,
+    "difficulty": 2,
+    "dimensions": [
+      "Self-Respect",
+      "Growth"
+    ],
+    "notYet": "Choose what you would like to do.",
+    "identities": [
+      "Grounded",
+      "Learner"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P009"
+    ],
+    "contextFrom": "P009",
+    "answerPrompt": "What did you make space for?"
+  },
+  {
+    "id": "P068",
+    "title": "MAKE IT EASIER",
+    "mission": "Prepare one kind sentence for a similar request in future. Practise saying it once privately.",
+    "minutes": 3,
+    "difficulty": 2,
+    "dimensions": [
+      "Self-Respect",
+      "Courage"
+    ],
+    "notYet": "Write just the first few words.",
+    "identities": [
+      "Grounded",
+      "Explorer"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P067"
+    ],
+    "contextFrom": "P067",
+    "answerPrompt": "What sentence will help next time?"
+  },
+  {
+    "id": "P069",
+    "title": "GO FIRST AGAIN",
+    "mission": "Take the first small step in a similar situation when an appropriate chance comes up.",
+    "minutes": 5,
+    "difficulty": 2,
+    "dimensions": [
+      "Courage",
+      "Growth"
+    ],
+    "notYet": "Identify the next possible moment.",
+    "identities": [
+      "Explorer",
+      "Learner"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P010"
+    ],
+    "contextFrom": "P010",
+    "answerPrompt": "What was different this time?"
+  },
+  {
+    "id": "P070",
+    "title": "OPEN THE DOOR",
+    "mission": "Give someone else a low-pressure opportunity to join in. Respect their choice.",
+    "minutes": 3,
+    "difficulty": 2,
+    "dimensions": [
+      "Connection",
+      "Courage"
+    ],
+    "notYet": "Write a simple invitation.",
+    "identities": [
+      "Connector",
+      "Explorer"
+    ],
+    "capability": "Connected action",
+    "prerequisites": [
+      "P069"
+    ],
+    "contextFrom": "P069",
+    "answerPrompt": "How did you make room for them?"
   }
 ]
